@@ -15,7 +15,7 @@ class Homepage extends StatelessWidget {
             children: [
               ElevatedButton(
                 onPressed: () {},
-                child: Text("Click here"),
+                child: Text("Click"),
                 style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.redAccent,
                     foregroundColor: Colors.white,
